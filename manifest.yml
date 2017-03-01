@@ -3,5 +3,5 @@ applications:
   host: node-chat
   domain: hcf.helionit.io 
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
-  memory: 64M
+  memory: 128M
   stack: cflinuxfs2
